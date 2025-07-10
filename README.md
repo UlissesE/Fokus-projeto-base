@@ -2,7 +2,7 @@
 
 Fokus é um aplicativo web de produtividade baseado na técnica Pomodoro, permitindo alternar entre períodos de foco, descanso curto e descanso longo, além de gerenciar uma lista de tarefas. 
 
-Este projeto foi feito para aprendizado e treinamento de Manipulação de DOM e uso de localStorage em JavaScript.
+Este projeto foi feito para aprendizado e treinamento de Manipulação de DOM e uso de localStorage em JavaScript. HTML e CSS fornecidos pela Alura.
 
 ## Funcionalidades
 
