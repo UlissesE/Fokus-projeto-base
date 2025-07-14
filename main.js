@@ -13,7 +13,7 @@ const pause = new Audio("/sons/pause.mp3");
 const beep = new Audio("/sons/beep.mp3");
 musica.loop = true
 
-let tempoDecorridoEmSegundos = 1;
+let tempoDecorridoEmSegundos = 1500;
 let intervaloId = null;
 const tempoNaTela = document.querySelector("#timer");
 
